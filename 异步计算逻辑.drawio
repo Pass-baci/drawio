@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T10:09:07.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="OKPJKEAUmjnPR_zXtmNC" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T10:16:01.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="sBXfvOtgX7njgTme4OTz" type="github">
   <diagram id="QZdrPpxZRQpyEvlnEPuX" name="第 1 页">
     <mxGraphModel dx="1804" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,12 +228,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M-NSAudVDiKB4oBg6RZZ-71" value="获取输入源数据" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;rounded=0;curved=1;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1056.5" y="1180" as="sourcePoint" />
-            <mxPoint x="1304.5" y="1180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="M-NSAudVDiKB4oBg6RZZ-72" value="比对" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry x="0.2855" width="80" relative="1" as="geometry">
             <mxPoint x="371" y="1250" as="sourcePoint" />
@@ -278,12 +272,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="372" y="1410" as="sourcePoint" />
             <mxPoint x="620" y="1410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M-NSAudVDiKB4oBg6RZZ-78" value="获取输入源数据" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;rounded=0;curved=1;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1066.5" y="1190" as="sourcePoint" />
-            <mxPoint x="1314.5" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M-NSAudVDiKB4oBg6RZZ-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;curved=1;" edge="1" parent="1">
